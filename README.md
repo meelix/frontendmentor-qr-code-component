@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-timetrackingdashboard-using-css-grid-HWCpsooZdh)
-- [Live site](https://meelix.github.io/frontendmentor-time-tracking-dashboard/)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-5ozCsqzRtW)
+- [Live site](https://meelix.github.io/frontendmentor-qr-code-component/)
 
 ## Built with
 
